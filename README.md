@@ -7,4 +7,6 @@ This GitHub includes a mixture of undergraduate, graduate, and personal projects
 Thanks for stopping by! 💜
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8a2be2&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8a2be2&height=6" width="100%"/>
+
+<img src="purpleheartgif.gif" width="100%" alt="Purple heart animation" />
