@@ -1,8 +1,7 @@
 ## Hi! 💜
 Hi, I'm Janelle.
 
-I’m a software engineer with a varied background and growing expertise in data, cloud, cybersecurity, and AI/ML systems.
-This GitHub includes a mixture of undergraduate, graduate, and personal projects I’ve created to sharpen my skills and explore new ideas.
+I’m a cybersecurity professional with a multidisciplinary background in software and data engineering, cloud infrastructure, and AI/ML. This GitHub includes a collection of undergraduate, graduate, and personal projects I’ve created to sharpen my skills and explore new ideas.
 
 Thanks for stopping by! 💜
 
